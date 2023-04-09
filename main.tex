@@ -1,0 +1,29 @@
+\documentclass{ipb}
+
+\usepackage[colorlinks=true, urlcolor=black, linkcolor=black, citecolor=black, bookmarks=true, pdfstartview=FitH]{hyperref}
+\usepackage[style=ieee,backend=biber]{biblatex}
+\addbibresource{references.bib}
+
+\title{Sustainable Implementation of a Thread Mesh Wireless Network}
+\author{Md Mazedul Islam Khan}
+\courseyear{2023}
+
+\begin{document}
+
+\beforepreface
+\afterpreface
+\cleardoublepage
+\bodystart
+
+\input{chapters/rationale.tex}
+\input{chapters/research.tex}
+\input{chapters/plan.tex}
+\input{chapters/execution.tex}
+\input{chapters/reflection.tex}
+
+\clearpage
+
+\addcontentsline{toc}{chapter}{References}
+\printbibliography[title={References}]
+
+\end{document}

@@ -1,0 +1,8 @@
+{
+    "editor.minimap.enabled": false,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "workbench.statusBar.visible": true,
+    "explorer.openEditors.visible": 0,
+}
