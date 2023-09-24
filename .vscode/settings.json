@@ -5,4 +5,5 @@
     "files.insertFinalNewline": true,
     "workbench.statusBar.visible": true,
     "explorer.openEditors.visible": 0,
+    "latex-workshop.latex.outDir": "%DIR%/out",
 }
